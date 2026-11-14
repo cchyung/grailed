@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+.DS_Store
+photos/
+tools/notes-page/thumbs/
+*.bak
+
+# Per-seller run data. Templates live in examples/; grailed-setup copies them in.
+listings.json
+listings.md
+pricing.md
+measurements.csv
+picks.json
+research.md
+config.local.json
+tools/reference-look.png

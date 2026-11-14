@@ -1,0 +1,35 @@
+{
+ "_note": "Ordered photo picks per item. rotate = degrees counter-clockwise applied before cropping. First entry is the cover.",
+ "Wooyoungmi Trousers": [
+  {
+   "file": "IMG_7174.JPG",
+   "angle": "front"
+  },
+  {
+   "file": "IMG_7168.JPG",
+   "angle": "back"
+  },
+  {
+   "file": "IMG_7176.JPG",
+   "angle": "waist detail",
+   "crop": [
+    0.3125,
+    0.3125,
+    1,
+    1
+   ]
+  },
+  {
+   "file": "IMG_7177.JPG",
+   "angle": "leather patch + hang tag detail"
+  },
+  {
+   "file": "IMG_7179.JPG",
+   "angle": "hang tag"
+  },
+  {
+   "file": "IMG_7180.JPG",
+   "angle": "brand + care tag"
+  }
+ ]
+}

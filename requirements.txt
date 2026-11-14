@@ -1,0 +1,8 @@
+numpy==2.5.3
+opencv-python-headless==5.0.0.93
+pillow==12.3.0
+pillow-heif==1.8.0
+rembg==2.0.85
+onnxruntime==1.30.0
+openai==3.49.0
+python-dotenv==1.2.4

@@ -1,0 +1,42 @@
+{
+ "_note": "Single source of truth: one entry per piece. Edit this file, then run tools/build_md.py to regenerate listings.md. Every form value must match Grailed's options exactly (.claude/skills/grailed-listing/reference/form-map.md). Run tools/validate_listings.py before opening the browser. grailed_id and listed_at are filled after publishing. floor = lowest offer worth taking (from pricing.md research). Every price change appends to price_history {date, from, to, note}. status (active/sold/removed), favorites, sold_at, sold_price, net (after fees and label) and cost are outcome fields: fill them on each status check.",
+ "defaults": {
+  "department": "Menswear",
+  "accept_offers": true,
+  "smart_pricing": false,
+  "shipping": "prepaid label (US); international regions follow account defaults"
+ },
+ "items": [
+  {
+   "folder": "Wooyoungmi Trousers",
+   "category": "Bottoms",
+   "subcategory": "Casual Pants",
+   "designer": "Wooyoungmi",
+   "collab": null,
+   "size": "US 30 / EU 46",
+   "tag_size": "46",
+   "name": "Wooyoungmi Gray Oxford Trousers",
+   "color": "Gray",
+   "condition": "New/Never Worn",
+   "condition_score": null,
+   "style": "Luxury",
+   "country": null,
+   "measurements": {
+    "Inseam": 30.5,
+    "Front Rise": 16
+   },
+   "price": 260,
+   "floor": 210,
+   "price_history": [],
+   "description": "Gray oxford trousers from Wooyoungmi SS26. Relaxed, wide cut with a clean drape. Deadstock with tags attached.\n\nWaist 15.5 flat / Rise 16 / Inseam 30.5\n\nTagged 46 (76cm waist). Style W261PT02901G.",
+   "grailed_id": null,
+   "listed_at": null,
+   "status": null,
+   "favorites": null,
+   "sold_at": null,
+   "sold_price": null,
+   "net": null,
+   "cost": null
+  }
+ ]
+}
